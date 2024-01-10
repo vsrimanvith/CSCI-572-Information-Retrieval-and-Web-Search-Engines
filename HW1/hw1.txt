@@ -1,0 +1,7 @@
+Average number of overlapping results: 1.91
+Average percentage overlap: 19.10%
+Average Spearman Coefficient: -10.367285714285716
+
+The calculations clearly reveal that ASK and Google exhibit notable differences in their performance. They align in search results only approximately 19.10% of the time, indicating distinct methodologies for locating and prioritizing web pages. The negative Spearman's coefficient (-10.367285714285716) signifies an inverse relationship between Ask and Google's outcomes. In essence, when Google deems a website the second most relevant, ASK frequently arrives at a different judgment. This underscores the presence of distinct ranking algorithms or criteria in these two search engines for determining which websites should occupy top positions in their results.
+
+To put it simply, Google appears to consistently deliver more relevant search results compared to ASK. This enhanced performance likely stems from Google's intricate ranking algorithms, which contribute to a higher likelihood of users finding what they're seeking.

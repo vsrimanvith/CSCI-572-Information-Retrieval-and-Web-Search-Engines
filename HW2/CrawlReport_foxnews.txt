@@ -1,0 +1,36 @@
+Name: Sri Manvith Vaddeboyina
+USC ID: 1231409457
+News site crawled: foxnews.com
+Number of threads: 16
+
+Fetch Statistics
+================
+# fetches attempted: 20000
+# fetches succeeded: 19885
+# fetches failed or aborted: 115
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2761760
+# unique URLs extracted: 1437876
+# unique URLs within News Site: 127245
+# unique URLs outside News Site: 1310631
+
+Status Codes:
+=============
+200 OK: 19885
+301 Moved Permanently: 82
+404 Not Found: 31
+500 Internal Server Error: 2
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 0
+10KB ~ <100KB: 4170
+100KB ~ <1MB: 13041
+>= 1MB: 43
+
+Content Types:
+==============
+text/html: 17254
